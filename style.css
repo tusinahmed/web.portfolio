@@ -81,7 +81,7 @@ h2{
 
 #baby-stack{
     border-left: 7px solid;
-    border-image: linear-gradient(lightSalmon, tomato);
+    border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 
 }
